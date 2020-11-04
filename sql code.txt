@@ -1,0 +1,2 @@
+INSERT INTO tblcustomers
+VALUES (2, 'khehra', 'jashan', '9808800001', 'jashansherongmail.com');
